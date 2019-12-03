@@ -1,0 +1,19 @@
+{
+    "name": "ravall/lamoda-cli",
+    "autoload": {
+        "psr-4": {
+            "Criteria\\": "criteria",
+            "FStrategy\\": "fStrategy",
+            "Interfaces\\": "interfaces",
+            "traits\\": "traits",
+            "Scripts\\": "scripts"
+        }
+    },
+    "authors": [
+        {
+            "name": "Валерий Семенов",
+            "email": "valery.ravall@gmail.com"
+        }
+    ],
+    "require": {}
+}
